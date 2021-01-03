@@ -5,4 +5,8 @@
 * [x] Mettre en place GitHub Actions
 * [ ] Mettre en place les tests fonctionnels
 * [ ] Écrire le README
+* [ ] Créer une image Docker et automatiser le déploiement
+* [ ] 
+* [ ] 
+* [ ] 
 * [ ] 
